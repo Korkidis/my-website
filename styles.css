@@ -1,0 +1,37 @@
+
+body {
+    background-color: #f4f4f2;
+    color: #2b2b2b;
+    font-family: 'Press Start 2P', cursive;
+    padding-bottom: 90px;
+}
+
+nav {
+    padding: 20px;
+    border-bottom: 3px solid #888;
+    margin-bottom: 60px;
+    background-color: #1c1c1c;
+}
+
+nav h2 {
+    color: #f0f0f0;
+    font-size: 16px;
+    margin: 0;
+}
+
+img {
+    max-width: 100%;
+    image-rendering: pixelated;
+}
+
+.nes-balloon {
+    background-color: #ffffff;
+    color: #2f2f2f;
+}
+
+footer {
+    margin-top: 50px;
+    font-size: 60%;
+    text-align: center;
+    color: #444;
+}
